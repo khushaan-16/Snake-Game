@@ -30,7 +30,7 @@ snake-game/
 │── README.md
 ⚙️ Setup & Run Locally
 Clone the repository:
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/khushaan-16/snake-game.git
 Navigate to project folder:
 cd snake-game
 Open index.html in your browser
