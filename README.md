@@ -6,13 +6,6 @@ This project demonstrates strong fundamentals of **DOM manipulation, game logic,
 
 > 🎯 Control the snake, eat food, grow longer, and beat your high score!
 
----
-
-## 🔥 Live Demo
-
-👉 *(Add your deployed link here — GitHub Pages recommended)*
-
----
 
 ## 🚀 Features
 
