@@ -1,6 +1,3 @@
-Here’s an **upgraded, more professional + portfolio-ready README** for your Snake Game 👇
-
----
 
 # 🐍 Snake Game (JavaScript)
 
