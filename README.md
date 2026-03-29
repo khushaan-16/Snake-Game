@@ -1,136 +1,86 @@
+Here’s a clean, professional **GitHub README** for your Snake Game, including a **preview/deployed link section** you can fill later 👇
 
-# 🐍 Snake Game (JavaScript)
+---
 
-A fully interactive **Snake Game** built with **HTML, CSS, and Vanilla JavaScript**.
-This project demonstrates strong fundamentals of **DOM manipulation, game logic, and event handling**.
+# 🐍 Snake Game
 
-> 🎯 Control the snake, eat food, grow longer, and beat your high score!
+A classic **Snake Game** built using **HTML, CSS, and JavaScript**. Control the snake, eat food, grow longer, and try to beat your high score!
 
+---
 
-## 🚀 Features
+## 🚀 Live Preview
 
-* 🎮 Smooth real-time snake movement
-* ⌨️ Keyboard controls (Arrow Keys)
-* 🍎 Random food spawning system
-* 📈 Dynamic score tracking
-* 🏆 Persistent high score (via localStorage)
-* ⏱️ Real-time game timer
-* 💀 Game over modal with restart option
-* 🔁 Instant game reset functionality
-* 🧱 Responsive grid-based game board
+👉 **Play the game here:**
+🔗 *[https://snakegameeeefree.netlify.app/]*
+
+---
+
+## 🎮 Features
+
+* 🟢 Smooth snake movement
+* 🍎 Random food generation
+* 📈 Score tracking
+* 🏆 High score system (stored in browser)
+* 💀 Game over & restart functionality
+* 🎯 Grid-based gameplay
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **HTML5** – Structure
-* **CSS3** – Styling & layout
-* **JavaScript (Vanilla JS)** – Game logic & interactivity
+* **HTML** – Structure
+* **CSS** – Styling & layout
+* **JavaScript** – Game logic & interactions
+* **Local Storage** – High score saving
 
 ---
 
-## 🧠 What I Learned
+## ⚙️ How to Run Locally
 
-* Handling **keyboard events** for real-time gameplay
-* Implementing **game loops using intervals**
-* Managing **state (snake position, food, score)**
-* Using **localStorage** for persistent data
-* Writing clean and modular JavaScript logic
+1. Clone the repository
 
----
-
-## 🎯 How to Play
-
-* Use **Arrow Keys (↑ ↓ ← →)** to control the snake
-* Eat food 🍎 to grow and increase your score
-* Avoid:
-
-  * ❌ Hitting the walls
-  * ❌ *(Optional future)* Hitting yourself
-
-> 💡 The game ends when the snake collides with a wall.
-
----
-
-## 📂 Project Structure
-
-```
-snake-game/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
-
----
-
-## ⚙️ Setup & Run Locally
-
-### 1. Clone the repository
-
-
+```bash
 git clone https://github.com/khushaan-16/snake-game.git
+```
 
-
-### 2. Navigate to project folder
+2. Open the folder
 
 ```bash
 cd snake-game
 ```
 
-### 3. Run the project
+3. Run the game
 
-Open `index.html` in your browser
-
----
-
-## 📸 Preview
-
-*(Add gameplay screenshot or GIF here — highly recommended for portfolio)*
+* Open `index.html` in your browser
 
 ---
 
-## 💡 Future Improvements
+## 🎯 Controls
 
-* 🧠 Self-collision detection
-* ⚡ Progressive speed increase
-* 📱 Mobile touch controls
-* 🎵 Sound effects & background music
-* 🌈 Themes / Dark mode
-* 🧩 Pause / Resume functionality
+* ⬆️ Up Arrow – Move Up
+* ⬇️ Down Arrow – Move Down
+* ⬅️ Left Arrow – Move Left
+* ➡️ Right Arrow – Move Right
 
 ---
 
-## 🧪 Possible Enhancements (Advanced)
+## 📌 Future Improvements
 
-* Use **requestAnimationFrame** instead of intervals
-* Add **difficulty levels**
-* Store leaderboard instead of single high score
-* Convert into a **React-based game**
-
----
-
-## 🙌 Acknowledgements
-
-Inspired by the classic **Nokia Snake Game** 🐍
+* 🎵 Sound effects
+* 📱 Mobile controls (touch support)
+* 🌈 Themes / dark mode
+* ⚡ Speed levels
 
 ---
 
-## 👨‍💻 Author
+## 🤝 Contributing
 
-**Khushaan Lal**
-
-* GitHub: [https://github.com/khushaan-16](https://github.com/khushaan-16)
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, consider:
-
-* ⭐ Starring the repo
-* 🍴 Forking it
-* 🧠 Suggesting improvements
+Feel free to fork this repo and improve the game!
+Pull requests are welcome 🚀
 
 ---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
 
